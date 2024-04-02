@@ -1,0 +1,16 @@
+{
+    "name": "otavio/buscador-cursos-alura",
+    "description": "Projeto que busca os cursos no site da Alura",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Otavio Henrique de Lima e Silva",
+            "email": "otaviohlsilva@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.8",
+        "symfony/dom-crawler": "^6.4",
+        "symfony/css-selector": "^6.4"
+    }
+}
